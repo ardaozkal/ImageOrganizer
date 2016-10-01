@@ -1,0 +1,9 @@
+C:\Users\ay-_-\Desktop\ImageOrganizer-master\ImgOrg\bin\Debug\ImgOrg.exe.config
+C:\Users\ay-_-\Desktop\ImageOrganizer-master\ImgOrg\obj\Debug\ImgOrg.csprojResolveAssemblyReference.cache
+C:\Users\ay-_-\Desktop\ImageOrganizer-master\ImgOrg\obj\Debug\ImgOrg.Form1.resources
+C:\Users\ay-_-\Desktop\ImageOrganizer-master\ImgOrg\obj\Debug\ImgOrg.Properties.Resources.resources
+C:\Users\ay-_-\Desktop\ImageOrganizer-master\ImgOrg\obj\Debug\ImgOrg.csproj.GenerateResource.Cache
+C:\Users\ay-_-\Desktop\ImageOrganizer-master\ImgOrg\bin\Debug\ImgOrg.exe
+C:\Users\ay-_-\Desktop\ImageOrganizer-master\ImgOrg\bin\Debug\ImgOrg.pdb
+C:\Users\ay-_-\Desktop\ImageOrganizer-master\ImgOrg\obj\Debug\ImgOrg.exe
+C:\Users\ay-_-\Desktop\ImageOrganizer-master\ImgOrg\obj\Debug\ImgOrg.pdb
